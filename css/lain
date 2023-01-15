@@ -1,0 +1,41 @@
+body
+ {
+    background-color: rgb(153, 204, 204);
+ }
+
+
+ a:link
+
+    {
+
+        color:rgb(248, 246, 244)
+        background-color rgba(0, 245, 159, 0.493)
+        text-decoration none;
+        padding: 15px;
+        display:inline-block;
+        
+    }
+
+    a:visited
+    {
+        color:rgb(198, 240, 193)
+        background-color rgb(194, 131, 131)
+        text-decoration inherit;
+
+    }
+
+
+    a:hover
+
+    {
+        color:rgb(152, 228, 185)
+        background-color  rgb(173, 177, 212)
+        text-background initial;
+    }
+
+    a:active 
+
+    {
+        color:rgb(170, 70, 148);
+        background-color:  rgb(192, 233, 140)
+    }
